@@ -1,40 +1,55 @@
 <!-- ============================================================ -->
-<!--                  ⚡ EPIC HEADER BLOCK ⚡                    -->
+<!--                ⚡ ULTRA EPIC HEADER BLOCK ⚡               -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<!-- Top thin glowing laser line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=5" width="100%"/>
+<!-- ░░ TOP NEON BORDER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,20:FF8E53,40:FFA0E0,60:B388FF,80:82B1FF,100:69FFEB&height=6" width="100%"/>
 
-<!-- MAIN HERO BANNER — egg type = cracking dramatic effect -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,20:0D0221,45:1a0440,70:0a1a3f,100:000000&height=260&section=header&text=%E2%9A%A1%20PROGRAMMING%20FOR%20AI%20%E2%9A%A1&fontSize=48&fontColor=F3E8FF&fontAlignY=38&fontAlign=50&desc=%E2%80%A2%20BS%20Artificial%20Intelligence%20%E2%80%A2%20Lab%20Repository%20%E2%80%A2%2024PWAI0032%20%E2%80%A2&descAlignY=58&descSize=15&descColor=C084FC&stroke=9333EA&strokeWidth=2&animation=blinking" width="100%"/>
+<!-- ░░ MAIN CINEMATIC HERO BANNER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a001a,35:12004a,55:1a0066,75:0d1a4a,90:000d26,100:000000&height=320&section=header&text=PROGRAMMING%20FOR%20AI&fontSize=62&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=◈%20BS%20Artificial%20Intelligence%20◈%20UET%20Peshawar%20◈%20Lab%20Repository%20◈%2024PWAI0032%20◈&descAlignY=57&descSize=15&descColor=B388FF&stroke=7B2FBE&strokeWidth=3&animation=fadeIn" width="100%"/>
 
-<!-- Cyber grid glowing line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,50:7C3AED,100:9333EA&height=4" width="100%"/>
+<!-- ░░ ANIMATED RAINBOW DIVIDER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FBE,25:9C27B0,50:E040FB,75:7C4DFF,100:448AFF&height=5" width="100%"/>
 
 <br/>
 
-<!-- Glowing name pill -->
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%20%E2%9A%A1%20SYED%20HASSAN%20TAYYAB%20%E2%9A%A1%20%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-7C3AED?style=for-the-badge"/>
+<!-- ░░ GLOWING IDENTITY BANNER ░░ -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━%20⚡%20SYED%20HASSAN%20TAYYAB%20⚡%20━━━━━━━━━━━━━-1a0066?style=for-the-badge&labelColor=7B2FBE"/>
 
 <br/><br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=🧠+Building+The+Future+With+Artificial+Intelligence;🐍+Python+%7C+ML+%7C+Deep+Learning+%7C+Neural+Networks;🔬+Research+·+Code+·+Innovate+·+Deploy;⚡+Reg%3A+24PWAI0032+%7C+BS+AI+%7C+Spring+2025" alt="Typing SVG"/>
+<!-- ░░ MULTI-COLOR ANIMATED TYPING ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=50&lines=★%20Building%20The%20Future%20With%20Artificial%20Intelligence%20★;★%20Python%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Neural%20Nets%20★;★%20UET%20Peshawar%20%7C%20BS%20Artificial%20Intelligence%20%7C%202025%20★;★%20Reg%3A%2024PWAI0032%20%7C%20Research%20·%20Code%20·%20Innovate%20·%20Deploy%20★" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Neon cylinder divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:9333EA,50:A855F7,70:9333EA,100:000000&height=3" width="80%"/>
+<!-- ░░ SECOND TYPING LINE — accent color ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=4000&pause=1200&color=FF6BFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=〔%20Transforming%20Data%20into%20Intelligence%20〕;〔%20One%20Lab%20at%20a%20Time%20—%20Spring%20Semester%202025%20〕;〔%20From%20Hello%20World%20to%20Hello%20AI%20〕" alt="Typing SVG 2"/>
+
+<br/><br/>
+
+<!-- ░░ COLORFUL BADGE ROW ░░ -->
+<img src="https://img.shields.io/badge/🧠_AI-Powered-7B2FBE?style=flat-square&labelColor=1a0066"/>
+<img src="https://img.shields.io/badge/🐍_Python-3.x-00D9FF?style=flat-square&labelColor=003366"/>
+<img src="https://img.shields.io/badge/🏫_UET-Peshawar-FF6BFF?style=flat-square&labelColor=4a0066"/>
+<img src="https://img.shields.io/badge/📅_Spring-2025-FF8E53?style=flat-square&labelColor=4a1a00"/>
+<img src="https://img.shields.io/badge/🔖_Reg-24PWAI0032-69FFEB?style=flat-square&labelColor=004433"/>
+<img src="https://img.shields.io/badge/🟢_Status-Active-00E676?style=flat-square&labelColor=003300"/>
+
+<br/><br/>
+
+<!-- ░░ NEON FADE SEPARATOR ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00D9FF,50:FF6BFF,80:7B2FBE,100:000000&height=3" width="75%"/>
 
 <br/>
 
-<!-- GitHub contribution snake -->
+<!-- ░░ GITHUB CONTRIBUTION SNAKE ░░ -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="contribution snake"/>
 
-<!-- Bottom thin accent line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=5" width="100%"/>
+<!-- ░░ BOTTOM MIRROR NEON BORDER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:69FFEB,20:82B1FF,40:B388FF,60:FFA0E0,80:FF8E53,100:FF6B6B&height=6" width="100%"/>
 
 </div>
 
@@ -242,7 +257,7 @@ for phase, skills in roadmap.items():
 <!-- Info badges as a card row -->
 <img src="https://img.shields.io/badge/🎓_Degree-BS%20Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🏫_University-UET PESHAWAR-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏫_University-COMSATS-4F46E5?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🔖_Reg%20No-24PWAI0032-9333EA?style=for-the-badge"/>
 
