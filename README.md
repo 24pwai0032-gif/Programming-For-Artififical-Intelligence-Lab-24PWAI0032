@@ -1,18 +1,40 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,30:1a0533,60:0d1f4a,100:001a3d&height=280&section=header&text=Programming%20For%20AI&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=✦%20Lab%20Repository%20%7C%20Syed%20Hassan%20Tayyab%20%7C%2024PWAI0032%20✦&descAlignY=62&descSize=16&stroke=7C3AED&strokeWidth=2&animation=twinkling" width="100%"/>
-
-</div>
+<!-- ============================================================ -->
+<!--                  ⚡ EPIC HEADER BLOCK ⚡                    -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🧠+Building+The+Future+With+AI;🐍+Python+%7C+ML+%7C+Deep+Learning+%7C+Neural+Nets;🔬+Research+%7C+Code+%7C+Innovate+%7C+Deploy;⚡+24PWAI0032+%7C+BS+Artificial+Intelligence" alt="Typing SVG" />
+<!-- Top thin glowing laser line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=5" width="100%"/>
+
+<!-- MAIN HERO BANNER — egg type = cracking dramatic effect -->
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,20:0D0221,45:1a0440,70:0a1a3f,100:000000&height=260&section=header&text=%E2%9A%A1%20PROGRAMMING%20FOR%20AI%20%E2%9A%A1&fontSize=48&fontColor=F3E8FF&fontAlignY=38&fontAlign=50&desc=%E2%80%A2%20BS%20Artificial%20Intelligence%20%E2%80%A2%20Lab%20Repository%20%E2%80%A2%2024PWAI0032%20%E2%80%A2&descAlignY=58&descSize=15&descColor=C084FC&stroke=9333EA&strokeWidth=2&animation=blinking" width="100%"/>
+
+<!-- Cyber grid glowing line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,50:7C3AED,100:9333EA&height=4" width="100%"/>
+
+<br/>
+
+<!-- Glowing name pill -->
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%20%E2%9A%A1%20SYED%20HASSAN%20TAYYAB%20%E2%9A%A1%20%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-7C3AED?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake"/>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=🧠+Building+The+Future+With+Artificial+Intelligence;🐍+Python+%7C+ML+%7C+Deep+Learning+%7C+Neural+Networks;🔬+Research+·+Code+·+Innovate+·+Deploy;⚡+Reg%3A+24PWAI0032+%7C+BS+AI+%7C+Spring+2025" alt="Typing SVG"/>
 
 <br/>
+
+<!-- Neon cylinder divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:9333EA,50:A855F7,70:9333EA,100:000000&height=3" width="80%"/>
+
+<br/>
+
+<!-- GitHub contribution snake -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="contribution snake"/>
+
+<!-- Bottom thin accent line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=5" width="100%"/>
 
 </div>
 
@@ -60,9 +82,9 @@ Registration No: `24PWAI0032`
 
 <br/>
 
-![Status](https://img.shields.io/badge/🟢%20Status-Active%20&%20Growing-success?style=for-the-badge)
-![Semester](https://img.shields.io/badge/📅%20Semester-Spring%202025-blueviolet?style=for-the-badge)
-![Labs](https://img.shields.io/badge/🧪%20Labs-1%20of%20N%20Complete-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/🟢_Status-Active_&_Growing-success?style=for-the-badge)
+![Semester](https://img.shields.io/badge/📅_Semester-Spring_2025-blueviolet?style=for-the-badge)
+![Labs](https://img.shields.io/badge/🧪_Labs-1_of_N_Complete-orange?style=for-the-badge)
 
 </div>
 
@@ -198,36 +220,53 @@ for phase, skills in roadmap.items():
 
 ---
 
-<div align="center">
-
-## 〔 🧑‍💻 ABOUT ME 〕
-
-</div>
+<!-- ============================================================ -->
+<!--              💜 ABOUT ME — GRAPHIC BANNER STYLE             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ⚡  SYED HASSAN TAYYAB                                   ║
-║                                                            ║
-║   🎓  BS Artificial Intelligence                           ║
-║   🏫  University Of Engineering & Technology, Peshawar                                   ║
-║   🔖  Registration No: 24PWAI0032                          ║
-║   🌍  Pakistan                                             ║
-║                                                            ║
-║   "Code today. Innovate tomorrow. Lead with AI." 🚀        ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<!-- Section entry laser line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:9333EA,60:A855F7,100:000000&height=3" width="70%"/>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/✉️%20Gmail-hassanayaxy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanayaxy@gmail.com)
+<!-- ABOUT ME HERO BANNER — slice type = diagonal dynamic cut -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0221,30:1a0440,60:2d0a6b,100:0a0a0a&height=220&section=header&text=SYED%20HASSAN%20TAYYAB&fontSize=42&fontColor=F3E8FF&fontAlign=72&fontAlignY=45&desc=BS%20Artificial%20Intelligence%20%7C%20Reg%23%2024PWAI0032%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlign=72&descAlignY=65&descSize=14&descColor=C084FC&stroke=9333EA&strokeWidth=2&animation=fadeIn&rotate=0" width="100%"/>
+
+<!-- Neon underline -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,30:C084FC,50:F472B6,70:C084FC,100:9333EA&height=4" width="100%"/>
+
+<br/><br/>
+
+<!-- Info badges as a card row -->
+<img src="https://img.shields.io/badge/🎓_Degree-BS%20Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏫_University-UET PESHAWAR-4F46E5?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔖_Reg%20No-24PWAI0032-9333EA?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📅_Semester-Spring%202025-C026D3?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌍_Location-Pakistan-06B6D4?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💡_Focus-AI%20%7C%20ML%20%7C%20Python-F472B6?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Quote banner -->
+<img src="https://img.shields.io/badge/_%22Code%20today.%20Innovate%20tomorrow.%20Lead%20with%20AI.%22%20🚀_-1a0440?style=for-the-badge&labelColor=9333EA"/>
+
+<br/><br/>
+
+<!-- Contact links -->
+[![Gmail](https://img.shields.io/badge/✉️_Gmail-hassanayaxy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanayaxy@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Syed%20Hassan%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedhassantayyab/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Syed%20Hassan%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedhassantayyab/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-24pwai0032--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-24pwai0032--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24pwai0032-gif)
 
 </div>
 
@@ -247,20 +286,41 @@ for phase, skills in roadmap.items():
 >
 > — **Syed Hassan Tayyab · 24PWAI0032**
 
-<br/>
+</div>
 
 ---
 
-### ✦ &nbsp; If this repo helped you, drop a ⭐ — it means the world! &nbsp; ✦
+<!-- ============================================================ -->
+<!--                   🌌 EPIC FOOTER BLOCK 🌌                   -->
+<!-- ============================================================ -->
+
+<div align="center">
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=24pwai0032-gif&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-![Last Commit](https://img.shields.io/github/last-commit/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=for-the-badge&color=22C55E)
-![Repo Stars](https://img.shields.io/github/stars/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=for-the-badge&color=F59E0B)
+<!-- Top footer glowing entry line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:9333EA,50:C084FC,75:9333EA,100:000000&height=4" width="80%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a3d,40:0d1f4a,70:1a0533,100:0D0221&height=150&section=footer&text=Made%20with%20%F0%9F%92%9C%20by%20Syed%20Hassan%20Tayyab&fontSize=18&fontColor=C4B5FD&fontAlignY=65&animation=twinkling" width="100%"/>
+<!-- Star CTA -->
+### ✦ &nbsp; Found this useful? Light it up with a ⭐ — it truly means the world! &nbsp; ✦
+
+<br/>
+
+<!-- Live counter badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=24pwai0032-gif&color=9333EA&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=for-the-badge&color=22C55E&label=🕐+LAST+COMMIT)
+&nbsp;
+![Repo Stars](https://img.shields.io/github/stars/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=for-the-badge&color=F59E0B&label=⭐+STARS)
+
+<br/><br/>
+
+<!-- FOOTER BANNER — shark bottom = jagged epic teeth pointing up -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,20:0a0a1a,45:1a0440,70:2d0a6b,100:000000&height=160&section=footer&text=Made%20with%20%F0%9F%92%9C%20by%20Syed%20Hassan%20Tayyab&fontSize=20&fontColor=C084FC&fontAlignY=72&desc=24PWAI0032%20%7C%20BS%20Artificial%20Intelligence%20%7C%20Spring%202025&descAlignY=88&descSize=13&descColor=9370DB&animation=twinkling&reversal=true" width="100%"/>
+
+<!-- Bottom closing laser line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6,0&height=5" width="100%"/>
 
 </div>
