@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Programming For AI"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDkwMCAzMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8IS0tIFNvZnQgZGVlcCBiYWNrZ3JvdW5kIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiICAgc3RvcC1jb2xvcj0iIzBEMEIyQSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjQwJSIgIHN0b3AtY29sb3I9IiMxNjEwNDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3MCUiICBzdG9wLWNvbG9yPSIjMUExMzUwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMEIyQSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8IS0tIFNvZnQgdGl0bGUgZ3JhZGllbnQg4oCUIGxhdmVuZGVyIHRvIHJvc2UgZ29sZCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGl0bGVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiCiAgICAgICAgICB2YWx1ZXM9IiNDOEE4RkY7I0Y5QzVEMTsjQThEOEZGOyNDOEE4RkYiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiCiAgICAgICAgICB2YWx1ZXM9IiNGOUM1RDE7I0E4RDhGRjsjQzhBOEZGOyNGOUM1RDEiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIj4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIgogICAgICAgICAgdmFsdWVzPSIjQThEOEZGOyNDOEE4RkY7I0Y5QzVEMTsjQThEOEZGIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgICA8L3N0b3A+CiAgICA8L2xpbmVhckdyYWRpZW50PgoKICAgIDwhLS0gU29mdCBhdXJvcmEgdG9wIGJhciAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYXVyb3JhIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiICAgc3RvcC1jb2xvcj0iIzlCN0ZENCIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzMCUiICBzdG9wLWNvbG9yPSIjQzQ3RkE0IiBzdG9wLW9wYWNpdHk9IjAuOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgIHN0b3AtY29sb3I9IiM3RkE0QzQiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzlCN0ZENCIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CgogICAgPCEtLSBHbG93IGZpbHRlciDigJQgdmVyeSBzb2Z0IC0tPgogICAgPGZpbHRlciBpZD0ic29mdEdsb3ciIHg9Ii0xNSUiIHk9Ii0xNSUiIHdpZHRoPSIxMzAlIiBoZWlnaHQ9IjEzMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI2IiByZXN1bHQ9ImIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJiIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CgogICAgPCEtLSBTdWJ0bGUgb3JiIGZpbHRlciAtLT4KICAgIDxmaWx0ZXIgaWQ9Im9yYkZpbHRlciIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+CiAgICA8L2ZpbHRlcj4KCiAgICA8IS0tIFN0YXIgZmlsdGVyIC0tPgogICAgPGZpbHRlciBpZD0ic3Rhckdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxLjUiIHJlc3VsdD0iYiIvPgogICAgICA8ZmVNZXJnZT48ZmVNZXJnZU5vZGUgaW49ImIiLz48ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz48L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMyMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPCEtLSBTb2Z0IGJhY2tncm91bmQgb3JicyDigJQgYXVyb3JhIGVmZmVjdCAtLT4KICA8ZWxsaXBzZSBjeD0iMjAwIiBjeT0iMTYwIiByeD0iMTgwIiByeT0iMTIwIiBmaWxsPSIjNkI0RkEwIiBvcGFjaXR5PSIwLjEyIiBmaWx0ZXI9InVybCgjb3JiRmlsdGVyKSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIyMDA7MjMwOzIwMCIgZHVyPSI4cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xMjswLjE4OzAuMTIiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9lbGxpcHNlPgogIDxlbGxpcHNlIGN4PSI3MDAiIGN5PSIxNjAiIHJ4PSIxODAiIHJ5PSIxMjAiIGZpbGw9IiM0RjZCQTAiIG9wYWNpdHk9IjAuMTIiIGZpbHRlcj0idXJsKCNvcmJGaWx0ZXIpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjcwMDs2NzA7NzAwIiBkdXI9IjEwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xMjswLjE4OzAuMTIiIGR1cj0iMTBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZWxsaXBzZT4KICA8ZWxsaXBzZSBjeD0iNDUwIiBjeT0iMjYwIiByeD0iMjAwIiByeT0iODAiIGZpbGw9IiNBMDRGN0EiIG9wYWNpdHk9IjAuMDgiIGZpbHRlcj0idXJsKCNvcmJGaWx0ZXIpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjI2MDsyNDA7MjYwIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZWxsaXBzZT4KCiAgPCEtLSBUT1AgQVVST1JBIEJBUiAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQiIGZpbGw9InVybCgjYXVyb3JhKSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuOTswLjU7MC45IiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcmVjdD4KCiAgPCEtLSBTb2Z0IHN0YXJzIC0tPgogIDxnIGZpbHRlcj0idXJsKCNzdGFyR2xvdykiPgogICAgPGNpcmNsZSBjeD0iNTAiICBjeT0iMzUiICByPSIxLjIiIGZpbGw9IiNFMEQwRkYiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjY7MC4xOzAuNiIgZHVyPSIzLjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTMwIiBjeT0iMTgiICByPSIwLjkiIGZpbGw9IiNGRkQ2RTgiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4xOzAuNSIgZHVyPSIyLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMjQwIiBjeT0iNDUiICByPSIxLjEiIGZpbGw9IiNEMEU4RkYiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjY7MC4xOzAuNiIgZHVyPSI0LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMjIiICByPSIwLjkiIGZpbGw9IiNFMEQwRkYiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4yOzAuNSIgZHVyPSIyLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNTIwIiBjeT0iNDAiICByPSIxLjMiIGZpbGw9IiNGRkQ2RTgiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjY7MC4xOzAuNiIgZHVyPSIzLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNjYwIiBjeT0iMjAiICByPSIwLjkiIGZpbGw9IiNEMEU4RkYiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4xOzAuNSIgZHVyPSIyLjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNzgwIiBjeT0iMzgiICByPSIxLjEiIGZpbGw9IiNFMEQwRkYiIG9wYWNpdHk9IjAuNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjY7MC4yOzAuNiIgZHVyPSIzLjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iODYwIiBjeT0iMTUiICByPSIwLjkiIGZpbGw9IiNGRkQ2RTgiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4xOzAuNSIgZHVyPSIyLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iOTAiICBjeT0iMjg1IiByPSIxIiAgIGZpbGw9IiNEMEU4RkYiIG9wYWNpdHk9IjAuNCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjQ7MC4xOzAuNCIgZHVyPSIzLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMzEwIiBjeT0iMjk1IiByPSIxLjIiIGZpbGw9IiNFMEQwRkYiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4xOzAuNSIgZHVyPSIyLjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNTkwIiBjeT0iMjg4IiByPSIwLjkiIGZpbGw9IiNGRkQ2RTgiIG9wYWNpdHk9IjAuNCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjQ7MC4xOzAuNCIgZHVyPSIzLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iODIwIiBjeT0iMjkyIiByPSIxLjEiIGZpbGw9IiNEMEU4RkYiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4yOzAuNSIgZHVyPSIyLjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDwvZz4KCiAgPCEtLSBTb2Z0IGZsb2F0aW5nIHBhcnRpY2xlIHRyYWlscyAtLT4KICA8Y2lyY2xlIHI9IjIiIGZpbGw9IiNDOEE4RkYiIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTSA2MCAxMjAgQyAyMDAgODAgNDAwIDE0MCA2MDAgMTAwIEMgNzUwIDcwIDg1MCAxMzAgOTAwIDExMCIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MC41OzAuMjswLjQ7MCIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSByPSIxLjUiIGZpbGw9IiNGOUM1RDEiIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTSA5MDAgMjAwIEMgNzAwIDE3MCA1MDAgMjEwIDMwMCAxODAgQyAxNTAgMTYwIDUwIDIwMCAwIDE5MCIgZHVyPSIxNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MC40OzAuMjswLjU7MCIgZHVyPSIxNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSByPSIxLjgiIGZpbGw9IiNBOEQ4RkYiIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTSA0NTAgNjAgQyA0ODAgMTIwIDQyMCAxODAgNDUwIDI0MCBDIDQ3MCAyODAgNDQwIDMwMCA0NTAgMzEwIiBkdXI9IjEwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswLjQ7MC4zOzAuNDswIiBkdXI9IjEwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KCiAgPCEtLSBNYWluIHRpdGxlIGdsb3cgbGF5ZXIgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSIxNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICAgICAgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXNpemU9IjU2IiBmb250LXdlaWdodD0iYm9sZCIKICAgICAgICBmaWxsPSIjOEI2RkJGIiBvcGFjaXR5PSIwLjM1IiBmaWx0ZXI9InVybCgjb3JiRmlsdGVyKSI+CiAgICBQUk9HUkFNTUlORyBGT1IgQUkKICA8L3RleHQ+CiAgPCEtLSBNYWluIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSI1NiIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICAgICAgZmlsbD0idXJsKCN0aXRsZUdyYWQpIiBmaWx0ZXI9InVybCgjc29mdEdsb3cpIj4KICAgIFBST0dSQU1NSU5HIEZPUiBBSQogIDwvdGV4dD4KCiAgPCEtLSBTb2Z0IGRpdmlkZXIgbGluZSB1bmRlciB0aXRsZSAtLT4KICA8bGluZSB4MT0iMTgwIiB5MT0iMTcwIiB4Mj0iNzIwIiB5Mj0iMTcwIiBzdHJva2U9InVybCgjYXVyb3JhKSIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjUiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4yOzAuNSIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2xpbmU+CgogIDwhLS0gU3VidGl0bGUgMSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjIwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ1RyZWJ1Y2hldCBNUycsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgICAgIGZvbnQtc2l6ZT0iMTQiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjQzRCMEU4IiBvcGFjaXR5PSIwLjkiPgogICAg4peHICBCUyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSAgwrcgIFVFVCBQZXNoYXdhciAgwrcgIDI0UFdBSTAwMzIgIOKXhwogIDwvdGV4dD4KCiAgPCEtLSBBbmltYXRlZCByb3RhdGluZyBzdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIgogICAgICAgIGxldHRlci1zcGFjaW5nPSIxLjUiIGZpbGw9IiNGMEM0RDgiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzE7MDswOzA7MDswOzA7MTsxIiBkdXI9IjE2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIEJ1aWxkaW5nIHRoZSBGdXR1cmUgd2l0aCBBcnRpZmljaWFsIEludGVsbGlnZW5jZQogIDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIgogICAgICAgIGxldHRlci1zcGFjaW5nPSIxLjUiIGZpbGw9IiNCOEQ4RjAiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MDsxOzE7MDswOzA7MDswIiBkdXI9IjE2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIFB5dGhvbiAgwrcgIE1hY2hpbmUgTGVhcm5pbmcgIMK3ICBEZWVwIExlYXJuaW5nCiAgPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI0Q0QzBGMCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MDswOzA7MDswOzE7MTswOzAiIGR1cj0iMTZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgUmVzZWFyY2ggIMK3ICBDb2RlICDCtyAgSW5ub3ZhdGUgIMK3ICBEZXBsb3kgIPCfmoAKICA8L3RleHQ+CgogIDwhLS0gTmFtZSBwaWxsIC0tPgogIDxyZWN0IHg9IjI5MCIgeT0iMjU4IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjM4IiByeD0iMTkiCiAgICAgICAgZmlsbD0iIzFFMTg0NSIgc3Ryb2tlPSIjOUI3RkQ0IiBzdHJva2Utd2lkdGg9IjEuMiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgdmFsdWVzPSIxOzAuNDsxIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcmVjdD4KICA8dGV4dCB4PSI0NTAiIHk9IjI4MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ1RyZWJ1Y2hldCBNUycsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBsZXR0ZXItc3BhY2luZz0iMi41IgogICAgICAgIGZpbGw9IiNFMEQwRkYiPgogICAg4pymICBTWUVEIEhBU1NBTiBUQVlZQUIgIOKcpgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSIjRTBEMEZGOyNGOUM1RDE7I0M4RThGRjsjRTBEMEZGIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvdGV4dD4KCiAgPCEtLSBCT1RUT00gQVVST1JBIEJBUiAtLT4KICA8cmVjdCB4PSIwIiB5PSIzMTYiIHdpZHRoPSI5MDAiIGhlaWdodD0iNCIgZmlsbD0idXJsKCNhdXJvcmEpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC45OzAuNTswLjkiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMS41cyIvPgogIDwvcmVjdD4KPC9zdmc+" width="100%" alt="Programming For AI"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -8,81 +17,86 @@
 
 <div align="center">
 
-## ✦ About This Repository
+<h2>✦ &nbsp; About This Repository &nbsp; ✦</h2>
 
-*This repository holds all lab work for the course **Programming for Artificial Intelligence** — every notebook, every script, organized and growing throughout the semester.*
+<p><i>Complete semester lab archive for <b>Programming for Artificial Intelligence</b> —<br/>every notebook, every script, every concept, organised and growing week by week.</i></p>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Active-9B7FD4?style=flat-square)
-![Semester](https://img.shields.io/badge/Spring-2025-C47FA4?style=flat-square)
-![University](https://img.shields.io/badge/UET-Peshawar-7FA4C4?style=flat-square)
+![University](https://img.shields.io/badge/🏫_UET-Peshawar-9B7FD4?style=flat-square)
+&nbsp;
+![Program](https://img.shields.io/badge/🎓_BS-Artificial_Intelligence-C47FA4?style=flat-square)
+&nbsp;
+![Semester](https://img.shields.io/badge/📅_Spring-2025-7FA4C4?style=flat-square)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢_Status-Active-7FC49B?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🗂 Repository Structure
-
-</div>
+<div align="center"><h2>🗂 &nbsp; Repository Structure</h2></div>
 
 ```
 📦 Programming-For-Artificial-Intelligence-Lab-24PWAI0032/
 │
-├── 📁 Lab01 ── Python Fundamentals
-│    └── Lab1_24PWAI0032.ipynb
-├── 📁 Lab02 ── (Coming Soon)
-├── 📁 Lab03 ── (Coming Soon)
-├── 📁 Lab04 ── (Coming Soon)
+├── 📁 Lab01 ─── Python Fundamentals
+│    └── Lab1_24PWAI0032.ipynb   →  Variables · I/O · Conditions · Loops · Functions
+│
+├── 📁 Lab02 ─── Data Structures           (coming soon)
+├── 📁 Lab03 ─── File Handling & OOP       (coming soon)
+├── 📁 Lab04 ─── NumPy & Pandas            (coming soon)
+├── 📁 Lab05 ─── Data Visualization        (coming soon)
+├── 📁 Lab06 ─── Machine Learning Intro    (coming soon)
+├── 📁 Lab07 ─── Neural Networks           (coming soon)
 │    ···
-└── 📁 LabNN ── Final Lab
-     └── LabN_24PWAI0032.ipynb
+└── 📁 LabNN ─── Final Lab Project
 ```
 
-> 📌 Files follow the naming convention: `LabXX_24PWAI0032.ipynb`
+> 📌 Every file follows the naming convention: **`LabXX_24PWAI0032.ipynb`**
 
 ---
 
+<div align="center"><h2>🧪 &nbsp; Lab Progress Tracker</h2></div>
+
 <div align="center">
 
-## 🧪 Lab Progress
-
-| # | Topic | Concepts | Status |
+| # | Lab | Topics Covered | Status |
 |:---:|:---|:---|:---:|
-| `01` | **Python Fundamentals** | Variables, I/O, Conditions, Loops, Functions | ✅ Done |
-| `02` | Data Structures | Lists, Tuples, Dicts, Sets | 🔜 Soon |
-| `03` | File Handling & OOP | Classes, Objects, File I/O | 🔜 Soon |
-| `04` | NumPy & Pandas | Arrays, DataFrames, Wrangling | 🔜 Soon |
-| `05` | Data Visualization | Matplotlib, Seaborn, Plotly | 🔜 Soon |
-| `06` | Machine Learning | Regression, Classification | 🔜 Soon |
-| `07` | Neural Networks | TensorFlow, Keras | 🔜 Soon |
+| `01` | **Python Fundamentals** | Variables, I/O, Conditions, Loops, Functions, Types | ✅ Complete |
+| `02` | Data Structures | Lists, Tuples, Dicts, Sets | 🔜 Upcoming |
+| `03` | File Handling & OOP | Classes, Objects, File I/O | 🔜 Upcoming |
+| `04` | NumPy & Pandas | Arrays, DataFrames, Data Wrangling | 🔜 Upcoming |
+| `05` | Data Visualization | Matplotlib, Seaborn, Plotly | 🔜 Upcoming |
+| `06` | Machine Learning | Regression, Classification, Evaluation | 🔜 Upcoming |
+| `07` | Neural Networks | TensorFlow, Keras, Deep Learning | 🔜 Upcoming |
+| `…` | More Labs | — | 🔒 Locked |
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center"><h2>🛠 &nbsp; Tech Stack</h2></div>
 
-## 🛠 Tech Stack
+<div align="center">
 
 <table>
 <tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br/><sub>Python</sub></td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/><br/><sub>GitHub</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub>VS Code</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/><sub>Jupyter</sub></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/><sub>TensorFlow</sub></td>
+  <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br/><sub><b>Python</b></sub></td>
+  <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jupyter" width="50"/><br/><sub><b>Jupyter</b></sub></td>
+  <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/><sub><b>VS Code</b></sub></td>
+  <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br/><sub><b>TensorFlow</b></sub></td>
+  <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br/><sub><b>GitHub</b></sub></td>
 </tr>
 </table>
 
@@ -90,38 +104,44 @@
 
 ---
 
-<div align="center">
-
-## 🌙 Learning Roadmap
-
-</div>
+<div align="center"><h2>🌙 &nbsp; Semester Learning Roadmap</h2></div>
 
 ```python
+# Syed Hassan Tayyab · 24PWAI0032 · UET Peshawar
+
 roadmap = {
-    "Phase 1 — Foundations"    : ["✅ Python syntax & semantics",
-                                   "✅ Variables, I/O, control flow",
-                                   "✅ Functions & modules"],
-    "Phase 2 — Data Mastery"   : ["📌 NumPy arrays & operations",
-                                   "📌 Pandas DataFrames",
-                                   "📌 Data cleaning & analysis"],
-    "Phase 3 — Visualization"  : ["📌 Matplotlib & Seaborn",
-                                   "📌 Storytelling with data"],
-    "Phase 4 — Machine Learn"  : ["📌 Supervised learning models",
-                                   "📌 Scikit-learn pipelines"],
-    "Phase 5 — Deep Learning"  : ["📌 Neural networks with Keras",
-                                   "📌 Real-world AI project 🚀"],
+    "✅  Phase 1 — Foundations"    : ["Python syntax, variables, I/O",
+                                      "Control flow, loops, functions",
+                                      "Type checking, comments"],
+
+    "📌  Phase 2 — Data Mastery"   : ["NumPy arrays & operations",
+                                      "Pandas DataFrames & data cleaning"],
+
+    "📌  Phase 3 — Visualization"  : ["Matplotlib, Seaborn, Plotly",
+                                      "Storytelling with data"],
+
+    "📌  Phase 4 — ML Foundations" : ["Supervised & unsupervised learning",
+                                      "Scikit-learn pipelines & evaluation"],
+
+    "📌  Phase 5 — Deep Learning"  : ["Neural networks with Keras & TF",
+                                      "Real-world AI capstone project 🚀"],
 }
+
+for phase, topics in roadmap.items():
+    print(f"\n  {phase}")
+    for t in topics:
+        print(f"     › {t}")
 ```
 
 ---
 
-<div align="center">
+<div align="center"><h2>📊 &nbsp; GitHub Stats</h2></div>
 
-## 📊 GitHub Stats
+<div align="center">
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24pwai0032-gif&theme=tokyo-night&bg_color=0D0B2A&color=9B7FD4&line=C47FA4&point=F0D0E8&area=true&hide_border=true&area_color=1A1545)](https://github.com/24pwai0032-gif)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24pwai0032-gif&theme=tokyo-night&bg_color=0D0B2A&color=9B7FD4&line=C47FA4&point=E8C8E0&area=true&hide_border=true&area_color=1A1545)](https://github.com/24pwai0032-gif)
 
 <br/>
 
@@ -139,11 +159,11 @@ roadmap = {
 
 <div align="center">
 
-## 🌸 About Me
+<h2>🌸 &nbsp; About Me</h2>
 
-<img src="./aboutme.svg" width="100%" alt="Syed Hassan Tayyab"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDkwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgIHN0b3AtY29sb3I9IiMxMDBEMkUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxQTE1NDgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTAwRDJFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuYW1lRyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIj4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiNFOEQ1RkY7I0ZGQ0NFODsjQzhFOEZGOyNFOEQ1RkYiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIj4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIiB2YWx1ZXM9IiNGRkNDRTg7I0M4RThGRjsjRThENUZGOyNGRkNDRTgiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJhciIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiAgIHN0b3AtY29sb3I9IiM5QjdGRDQiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjIwJSIgIHN0b3AtY29sb3I9IiNDNDdGQTQiIHN0b3Atb3BhY2l0eT0iMC44Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiAgc3RvcC1jb2xvcj0iIzdGQTRDNCIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI4MCUiICBzdG9wLWNvbG9yPSIjOUI3RkQ0IiBzdG9wLW9wYWNpdHk9IjAuOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5QjdGRDQiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI4Ii8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9InNvZnQiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI0IiByZXN1bHQ9ImIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJiIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPCEtLSBTb2Z0IGJhY2tncm91bmQgb3JicyAtLT4KICA8ZWxsaXBzZSBjeD0iMTgwIiBjeT0iMTAwIiByeD0iMTUwIiByeT0iOTAiIGZpbGw9IiM2QjRGQTAiIG9wYWNpdHk9IjAuMSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xOzAuMTY7MC4xIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZWxsaXBzZT4KICA8ZWxsaXBzZSBjeD0iNzIwIiBjeT0iMTAwIiByeD0iMTUwIiByeT0iOTAiIGZpbGw9IiM0RjdBQTAiIG9wYWNpdHk9IjAuMSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xOzAuMTY7MC4xIiBkdXI9IjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZWxsaXBzZT4KCiAgPCEtLSBUb3AgYmFyIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNiYXIpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswLjU7MSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3JlY3Q+CgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iNDAiICBjeT0iMzAiICByPSIxIiBmaWxsPSIjRDhDOEZGIiBvcGFjaXR5PSIwLjUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC41OzAuMTswLjUiIGR1cj0iMy4xcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI4NjAiIGN5PSIyOCIgIHI9IjEiIGZpbGw9IiNGRkQ2RTgiIG9wYWNpdHk9IjAuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjU7MC4xOzAuNSIgZHVyPSIyLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjE3MCIgcj0iMSIgZmlsbD0iI0M4RTBGRiIgb3BhY2l0eT0iMC40Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNDswLjE7MC40IiBkdXI9IjMuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNzAwIiBjeT0iMTcyIiByPSIxIiBmaWxsPSIjRDhDOEZGIiBvcGFjaXR5PSIwLjQiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC40OzAuMTswLjQiIGR1cj0iMi45cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KCiAgPCEtLSBGbG9hdGluZyBwYXJ0aWNsZSAtLT4KICA8Y2lyY2xlIHI9IjEuOCIgZmlsbD0iI0M4QThGRiIgb3BhY2l0eT0iMCI+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNIDgwIDgwIEMgMzAwIDUwIDYwMCAxMTAgODIwIDcwIiBkdXI9IjExcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswLjQ1OzAuMjswLjQ7MCIgZHVyPSIxMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9jaXJjbGU+CgogIDwhLS0gTmFtZSBnbG93IC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iODUiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICAgICAgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iYm9sZCIKICAgICAgICBmaWxsPSIjN0I1RkM0IiBvcGFjaXR5PSIwLjMiIGZpbHRlcj0idXJsKCNnbG93KSI+U1lFRCBIQVNTQU4gVEFZWUFCPC90ZXh0PgogIDwhLS0gTmFtZSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjgyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0MCIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICAgICAgZmlsbD0idXJsKCNuYW1lRykiIGZpbHRlcj0idXJsKCNzb2Z0KSI+U1lFRCBIQVNTQU4gVEFZWUFCPC90ZXh0PgoKICA8IS0tIERpdmlkZXIgLS0+CiAgPGxpbmUgeDE9IjIwMCIgeTE9Ijk2IiB4Mj0iNzAwIiB5Mj0iOTYiIHN0cm9rZT0idXJsKCNiYXIpIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNjswLjI7MC42IiBkdXI9IjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvbGluZT4KCiAgPCEtLSBJbmZvIGxpbmUgMSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjEyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ1RyZWJ1Y2hldCBNUycsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgICAgIGZvbnQtc2l6ZT0iMTMuNSIgbGV0dGVyLXNwYWNpbmc9IjIuNSIgZmlsbD0iI0M0QjBFOCI+CiAgICDwn46TICBCUyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSAgwrcgIFVFVCBQZXNoYXdhcgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSIjQzRCMEU4OyNGMEM0RDg7I0I4RDBGMDsjQzRCMEU4IiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvdGV4dD4KCiAgPCEtLSBJbmZvIGxpbmUgMiAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgICAgICBmb250LWZhbWlseT0iJ1RyZWJ1Y2hldCBNUycsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgICAgIGZvbnQtc2l6ZT0iMTIuNSIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiNBODlDQzgiIG9wYWNpdHk9IjAuODUiPgogICAg8J+UliAgUmVnIyAyNFBXQUkwMDMyICDCtyAg8J+TjSAgUGVzaGF3YXIsIFBha2lzdGFuICDCtyAg8J+MuCAgU3ByaW5nIDIwMjUKICA8L3RleHQ+CgogIDwhLS0gUXVvdGUgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSIxNzYiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICAgICAgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjEyIgogICAgICAgIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzkwODhCOCIgb3BhY2l0eT0iMC44Ij4KICAgICIgQ29kZSB0b2RheS4gSW5ub3ZhdGUgdG9tb3Jyb3cuIExlYWQgd2l0aCBBSS4gIgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjg7MC40OzAuOCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3RleHQ+CgogIDwhLS0gQm90dG9tIGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIxOTciIHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNiYXIpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswLjU7MSIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIxLjVzIi8+CiAgPC9yZWN0Pgo8L3N2Zz4=" width="100%" alt="About Syed Hassan Tayyab"/>
 
-<br/>
+<br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-hassanayaxy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassanayaxy@gmail.com)
 &nbsp;&nbsp;
@@ -159,14 +179,14 @@ roadmap = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=24pwai0032-gif&color=9B7FD4&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=24pwai0032-gif&color=9B7FD4&style=flat-square&label=Profile+Views)
 &nbsp;
-![Last Commit](https://img.shields.io/github/last-commit/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=flat-square&color=7FA4C4&label=Last+Commit)
+![Last Commit](https://img.shields.io/github/last-commit/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=flat-square&color=7FA4C4)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=flat-square&color=C47FA4&label=Stars)
+![Stars](https://img.shields.io/github/stars/24pwai0032-gif/Programming-For-Artififical-Intelligence-Lab-24PWAI0032?style=flat-square&color=C47FA4)
 
 <br/><br/>
 
-<img src="./footer.svg" width="100%" alt="Footer"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDkwMCAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgIHN0b3AtY29sb3I9IiMwRDBCMkEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxNjEyM0UiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMEQwQjJBIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYXIiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgICBzdG9wLWNvbG9yPSIjOUI3RkQ0IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiICBzdG9wLWNvbG9yPSIjQzQ3RkE0IiBzdG9wLW9wYWNpdHk9IjAuOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgIHN0b3AtY29sb3I9IiM3RkE0QzQiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNzUlIiAgc3RvcC1jb2xvcj0iI0M0QTQ3RiIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOUI3RkQ0IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InRleHRHIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0UwRDBGRjsjRkZDQ0UwOyNDMEUwRkY7I0UwRDBGRiIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgICAgPC9zdG9wPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiIHZhbHVlcz0iI0ZGQ0NFMDsjQzBFMEZGOyNFMEQwRkY7I0ZGQ0NFMCIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgICAgPC9zdG9wPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIyMCIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJzb2Z0Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMyIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYiIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxNDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gV2F2ZSAtLT4KICA8cGF0aCBkPSJNMCw0MCBRMjI1LDUgNDUwLDQwIFE2NzUsNzUgOTAwLDQwIEw5MDAsMTQwIEwwLDE0MCBaIiBmaWxsPSIjMTEwRTM1IiBvcGFjaXR5PSIwLjYiLz4KCiAgPCEtLSBHbG93IG9yYiAtLT4KICA8ZWxsaXBzZSBjeD0iNDUwIiBjeT0iMTAwIiByeD0iMjAwIiByeT0iNjAiIGZpbGw9IiM2QjRGQTAiIG9wYWNpdHk9IjAuMDgiIGZpbHRlcj0idXJsKCNnbG93KSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyeCIgdmFsdWVzPSIyMDA7MjMwOzIwMCIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2VsbGlwc2U+CgogIDwhLS0gVG9wIGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjYmFyKSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuOTswLjQ7MC45IiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcmVjdD4KCiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSI4MCIgIGN5PSIxMTAiIHI9IjEiIGZpbGw9IiNEMEMwRjAiIG9wYWNpdHk9IjAuNCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjQ7MC4xOzAuNCIgZHVyPSIyLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjgyMCIgY3k9IjEwOCIgcj0iMSIgZmlsbD0iI0YwQzhEOCIgb3BhY2l0eT0iMC40Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNDswLjE7MC40IiBkdXI9IjMuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iMTIwIiByPSIxLjIiIGZpbGw9IiNDOEQ4RjAiIG9wYWNpdHk9IjAuMyI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7MC4xOzAuMyIgZHVyPSI0LjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgoKICA8IS0tIEZsb2F0aW5nIHBhcnRpY2xlIC0tPgogIDxjaXJjbGUgcj0iMS41IiBmaWxsPSIjQzhBOEZGIiBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlTW90aW9uIHBhdGg9Ik0gMCA3MCBDIDMwMCA1MCA2MDAgODAgOTAwIDYwIiBkdXI9IjEwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswLjQ7MC4xNTswLjM1OzAiIGR1cj0iMTBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgoKICA8IS0tIE1haW4gdGV4dCAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0idXJsKCN0ZXh0RykiIGZpbHRlcj0idXJsKCNzb2Z0KSI+CiAgICBNYWRlIHdpdGgg4pmhIGJ5IFN5ZWQgSGFzc2FuIFRheXlhYgogIDwvdGV4dD4KCiAgPCEtLSBTdWIgdGV4dCAtLT4KICA8dGV4dCB4PSI0NTAiIHk9Ijk0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGZvbnQtZmFtaWx5PSInVHJlYnVjaGV0IE1TJywgQXJpYWwsIHNhbnMtc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSIxMiIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiM5NDg4QzAiIG9wYWNpdHk9IjAuOCI+CiAgICAyNFBXQUkwMDMyICDCtyAgQlMgQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgIMK3ICBVRVQgUGVzaGF3YXIgIMK3ICBTcHJpbmcgMjAyNQogIDwvdGV4dD4KCiAgPCEtLSBTdGFyIGxpbmUgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSIxMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICAgICAgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEyIiBmaWxsPSIjQzRBOEQ4IiBvcGFjaXR5PSIwLjYiPgogICAg4pymICBTdGFyIHRoaXMgcmVwbyBpZiBpdCBoZWxwZWQgeW91ICDinKYKICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC42OzAuMjswLjYiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC90ZXh0PgoKICA8IS0tIEJvdHRvbSBiYXIgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMTM3IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjYmFyKSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuOTswLjQ7MC45IiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjEuNXMiLz4KICA8L3JlY3Q+Cjwvc3ZnPg==" width="100%" alt="Footer"/>
 
 </div>
