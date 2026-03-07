@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0c0a22"/>
+      <stop offset="50%" stop-color="#161240"/>
+      <stop offset="100%" stop-color="#0c0a22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#c084fc"/>
+      <stop offset="50%"  stop-color="#f0abfc"/>
+      <stop offset="75%"  stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#e9d5ff;#fce7f3;#dbeafe;#e9d5ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#fce7f3;#dbeafe;#e9d5ff;#fce7f3" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="orb"><feGaussianBlur stdDeviation="30"/></filter>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="210" fill="url(#bg)"/>
+
+  <!-- Orbs -->
+  <ellipse cx="160" cy="105" rx="160" ry="90" fill="#7c3aed" opacity="0.09" filter="url(#orb)">
+    <animate attributeName="opacity" values="0.09;0.15;0.09" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="740" cy="105" rx="160" ry="90" fill="#1d4ed8" opacity="0.09" filter="url(#orb)">
+    <animate attributeName="opacity" values="0.09;0.15;0.09" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#bar)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Stars -->
+  <circle cx="45"  cy="32"  r="1.1" fill="#ddd6fe" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.0s" repeatCount="indefinite"/></circle>
+  <circle cx="855" cy="28"  r="1.0" fill="#fbcfe8" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="180" r="1.0" fill="#bae6fd" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="178" r="1.1" fill="#ddd6fe" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+
+  <!-- Floating particle -->
+  <circle r="1.8" fill="#c4b5fd" opacity="0">
+    <animateMotion dur="13s" repeatCount="indefinite"
+      path="M 60,90 C 250,60 500,115 740,80 C 820,68 880,90 900,85"/>
+    <animate attributeName="opacity" values="0;0.50;0.20;0.45;0" dur="13s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Name shadow -->
+  <text x="450" y="90" text-anchor="middle"
+        font-family="Georgia, serif" font-size="42" font-weight="bold"
+        fill="#6d28d9" opacity="0.25" filter="url(#orb)">SYED HASSAN TAYYAB</text>
+  <!-- Name main -->
+  <text x="450" y="87" text-anchor="middle"
+        font-family="Georgia, serif" font-size="42" font-weight="bold"
+        fill="url(#nameG)" filter="url(#soft)">SYED HASSAN TAYYAB</text>
+
+  <!-- Divider -->
+  <line x1="190" y1="100" x2="710" y2="100"
+        stroke="url(#bar)" stroke-width="1" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.15;0.55" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Info line 1 -->
+  <text x="450" y="130" text-anchor="middle"
+        font-family="Trebuchet MS, Arial, sans-serif"
+        font-size="13.5" letter-spacing="2.5" fill="#c4b5fd">
+    🎓  BS Artificial Intelligence  ·  UET Peshawar
+    <animate attributeName="fill" values="#c4b5fd;#f9a8d4;#93c5fd;#c4b5fd" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Info line 2 -->
+  <text x="450" y="158" text-anchor="middle"
+        font-family="Trebuchet MS, Arial, sans-serif"
+        font-size="12.5" letter-spacing="2" fill="#a5b4fc" opacity="0.80">
+    🔖  Reg# 24PWAI0032  ·  📍  Peshawar, Pakistan  ·  🌸  Spring 2025
+  </text>
+
+  <!-- Quote -->
+  <text x="450" y="184" text-anchor="middle"
+        font-family="Georgia, serif" font-size="12"
+        font-style="italic" fill="#8b7aa8" opacity="0.75">
+    " Code today. Innovate tomorrow. Lead with AI. "
+    <animate attributeName="opacity" values="0.75;0.35;0.75" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="207" width="900" height="3" fill="url(#bar)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="4s" repeatCount="indefinite" begin="2s"/>
+  </rect>
+</svg>
